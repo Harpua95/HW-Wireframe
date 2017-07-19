@@ -1,11 +1,16 @@
+body 
+	{background: #777;
+	} 
+
 .header 
 	{
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
 	}
 
 .nav	
@@ -13,10 +18,10 @@
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
-
+	text-align: center;
 	}
 
 .section 
@@ -24,9 +29,12 @@
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
+	width: 45%;
+	float: left;	
 	}
 
 .article	
@@ -37,16 +45,18 @@
   	background: #777;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
 	}
 
 .H1 		
 	{
 	padding: 20px;
-  	margin-bottom: 20px;
+  	margin-bottom: 50px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
 	}
 
 .p
@@ -54,9 +64,10 @@
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
 	}
 
 .aside
@@ -64,9 +75,12 @@
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
+	width: 45%;
+	float: left;
 	}
 
 .footer
@@ -74,8 +88,11 @@
 	padding: 20px;
   	margin-bottom: 20px;
   	color: #333;
-  	background: #777;
+  	background: #ffffff;
   	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
+	text-align: center;
+	overflow: auto;
+	clear: both;
 	}
 
