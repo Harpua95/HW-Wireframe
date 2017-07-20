@@ -42,7 +42,7 @@ body {
 	content: #ebebeb;
 	color: #ffffff;
 	padding: 20px;
-	padding-top: 50px;
+	padding-top: 20px;
 	margin-bottom: 5px;
 	position: absolute;
 	width: 440px;
@@ -52,10 +52,11 @@ body {
 #h1 {
 	background: #ffffff;
 	content: #ebebeb; 
-	color: #333;
 	padding: 10px;
-	margin-bottom: 10px;
-}
+	margin-bottom: 5px;
+	height: 30px;
+	color: #000000;
+	}
 
 #p {
 	background: #ffffff;
@@ -63,6 +64,12 @@ body {
 	color: #333;
 	padding: 10px;
 	margin-bottom: 5px;
+}
+
+#h1_text {
+	position: absolute;
+	bottom: 62px;
+	left: 200px;
 }
 
 .aside {
